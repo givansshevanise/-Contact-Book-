@@ -1,4 +1,4 @@
-# -Contact-Book-
+# Contact-Book
 Contact Book Console Application
 
 A simple and efficient command-line contact management system that allows users to add, search, update, view, and delete contacts.
